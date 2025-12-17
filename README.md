@@ -34,6 +34,4 @@ Mục tiêu trong tương lai:<br>
 
 Lưu ý: *Bạn nên sử dụng 2 mạch L298N vì nhiệt độ sẽ rất cao khi điều khiển PID hoạt động.<br>
       *Không cần quan tâm đến hàm analogRead vì cú pháp của nó vẫn còn một số vấn đề.<br>
-**VUI LÒNG CHÚ Ý**<br>
-**NẾU NÓ ĐANG HOẠT ĐỘNG, ĐỪNG ĐỘNG VÀO!**
                       
